@@ -2,7 +2,7 @@
 Generate java code by drawing circles and lines and stuff
 
 ## What is it?
-A paint program that lets turns color-coded lines into Java code. 
+A paint program that turns color-coded lines and symbols into Java code. 
 
 For example, this: 
 ![alt text](https://github.com/OwenMcNaughton/DrawLang/blob/master/Hello%20World.PNG "Hello World")
